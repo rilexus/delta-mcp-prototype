@@ -1,6 +1,6 @@
 {
   "name": "delta-mcp-prototype",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Stanislav Panchenko",
   "description": "MCP wrapper for the UMT API",
   "scripts": {
